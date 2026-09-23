@@ -10,6 +10,6 @@ I'm a Business Informatics student at WU Vienna interested in data science, mach
 
 ## Tools and interests
 
-**Python · R · SQL · Machine Learning · NLP · AI **
+**Python · R · SQL · Machine Learning · NLP · AI**
 
 I use GitHub to share my projects, document my approach, and keep learning through practical work.
