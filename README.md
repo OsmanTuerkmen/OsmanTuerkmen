@@ -48,7 +48,22 @@ For **[emotion detection with DistilRoBERTa](https://github.com/OsmanTuerkmen/La
 
 ## My working kit
 
-`Python` · `R` · `SQL` · `pandas` · `scikit-learn` · `PyTorch` · `ggplot2` · `Shiny` · `QGIS` · `sf` · `terra` · `Git`
+<table>
+  <tr>
+    <td align="center" width="25%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="38" height="38" alt="Python logo" /><br /><sub>Python</sub></td>
+    <td align="center" width="25%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="38" height="38" alt="R logo" /><br /><sub>R</sub></td>
+    <td align="center" width="25%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="38" height="38" alt="SQLite logo" /><br /><sub>SQLite</sub></td>
+    <td align="center" width="25%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="38" height="38" alt="PyTorch logo" /><br /><sub>PyTorch</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="38" height="38" alt="React logo" /><br /><sub>React</sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="38" height="38" alt="TypeScript logo" /><br /><sub>TypeScript</sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="38" height="38" alt="Jupyter logo" /><br /><sub>Jupyter</sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="38" height="38" alt="Git logo" /><br /><sub>Git</sub></td>
+  </tr>
+</table>
+
+Also in the toolkit: `SQL` · `pandas` · `scikit-learn` · `ggplot2` · `Shiny` · `QGIS` · `sf` · `terra`
 
 ---
 
