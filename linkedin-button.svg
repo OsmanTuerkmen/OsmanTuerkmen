@@ -1,7 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="130" height="36" viewBox="0 0 130 36" role="img" aria-labelledby="title">
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36" role="img" aria-labelledby="title">
   <title id="title">LinkedIn</title>
-  <rect x="0.5" y="0.5" width="129" height="35" rx="8" fill="#161b22" stroke="#35516d"/>
-  <rect x="7" y="7" width="22" height="22" rx="4" fill="#0a66c2"/>
-  <text x="10.5" y="23" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700">in</text>
-  <text x="39" y="23.5" fill="#dbeafe" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="600">LinkedIn</text>
+  <rect width="36" height="36" rx="6" fill="#0a66c2"/>
+  <text x="5.5" y="26" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="26" font-weight="700">in</text>
 </svg>

@@ -1,4 +1,4 @@
-<h1 align="center">Osman Türkmen</h1>
+<h1 align="center">Hi, I'm Osman 👋</h1>
 
 <p align="center">
   <strong>Data Science · Applied ML · Geospatial Analysis</strong><br />
@@ -6,16 +6,16 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/osmant%C3%BCrkmen0/"><img src="linkedin-button.svg" width="130" alt="LinkedIn" /></a>
-  &nbsp;
-  <a href="mailto:osmantr820@gmail.com"><img src="email-button.svg" width="104" alt="Email: osmantr820@gmail.com" /></a>
+  <a href="https://www.linkedin.com/in/osmant%C3%BCrkmen0/" title="LinkedIn"><img src="linkedin-button.svg" width="36" alt="LinkedIn" /></a>
+  &nbsp;&nbsp;
+  <a href="mailto:osmantr820@gmail.com" title="Email"><img src="email-button.svg" width="36" alt="Email: osmantr820@gmail.com" /></a>
 </p>
 
 ---
 
-## 👋 About me
+## About me
 
-Hi, I'm Osman, a Business Informatics student at WU Vienna. I enjoy the full process of working with data: framing a useful question, making sense of messy inputs, and turning the result into a working prototype or clear recommendation. Outside of university and work, I build projects that mix statistics, maps, machine learning, and software.
+I'm a Business Informatics student at WU Vienna. I enjoy the full process of working with data: framing a useful question, making sense of messy inputs, and turning the result into a working prototype or clear recommendation. Outside of university and work, I build projects that mix statistics, maps, machine learning, and software.
 
 ## 🚀 Selected projects
 
