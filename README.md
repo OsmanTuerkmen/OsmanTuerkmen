@@ -1,70 +1,72 @@
 # Osman Türkmen
 
-> I turn complex signals into decisions people can use.
+### 🌍 Data science for the real world.
 
-**Data science · Risk · Useful software** — Vienna, Austria
+> Satellites → flood risk. Chess positions → probabilities. Hand landmarks → words.
 
-<p align="center">
-  <a href="#selected-work">Selected work</a> &nbsp;·&nbsp;
-  <a href="#where-i-work">Where I work</a> &nbsp;·&nbsp;
-  <a href="mailto:osmantr820@gmail.com">Get in touch</a>
-</p>
+📍 **Vienna, Austria** &nbsp;·&nbsp; 🎓 **Business Informatics @ WU Vienna**
 
-I study **Business Informatics at WU Vienna**. I like the part of a project where messy data becomes a question worth answering — and the part where an answer has to hold up outside a notebook.
+I work where **data science, risk, and software** meet. I enjoy turning messy data into a question worth answering, testing whether the answer holds up, and making the result useful beyond a notebook.
 
-My work moves between satellite imagery, bank portfolios, chess positions, and browser-based machine learning. The common thread: **make complex signals easier to understand and act on.**
+🔗 **LinkedIn:** [Osman Türkmen](https://www.linkedin.com/in/osmant%C3%BCrkmen0/) &nbsp;·&nbsp; ✉️ **Email:** [osmantr820@gmail.com](mailto:osmantr820@gmail.com)
 
-## Selected work
+## 🚀 Selected projects
 
-### 01 / Give a small gesture a useful interface
+### 🖐️ [Signly](https://github.com/OsmanTuerkmen/signly) · Hackathon
 
-**[Signly](https://github.com/OsmanTuerkmen/signly)** is a browser-based research prototype that recognizes a small vocabulary of isolated ASL signs. It combines hand and pose landmarks, a temporal model, and local ONNX inference. Camera frames stay on the device. It is a 12-word experiment, not continuous sign-language translation.
+A browser-based prototype for recognizing **12 isolated ASL signs**. Hand and pose landmarks feed a temporal model that runs locally in the browser, so camera frames stay on the device. Built as a hackathon research project with an honest, limited vocabulary.
 
-`React` · `TypeScript` · `MediaPipe` · `ONNX Runtime Web` · `Python`
+`React` · `TypeScript` · `MediaPipe` · `ONNX Runtime Web`
 
-### 02 / Read the landscape as data
+### 🌊 [Flood risk × infrared.city](https://github.com/OsmanTuerkmen/Floodrisk-project)
 
-In a **[flood-risk project with infrared.city](https://github.com/OsmanTuerkmen/Floodrisk-project)**, our WU team explored how satellite imagery, elevation models, rainfall, and map data can inform urban flood susceptibility. My focus included geospatial analysis and features such as vegetation, built-up area, and terrain slope.
+In WU Vienna's Data Science Lab, our team explored urban flood susceptibility with satellite imagery, elevation models, rainfall, and map data. I worked on geospatial analysis and features such as vegetation, built-up area, and terrain slope.
 
-`Python` · `R` · `Geospatial analysis` · `Remote sensing`
+`Python` · `R` · `Remote sensing` · `Geospatial analysis`
 
-### 03 / Put probabilities on a chessboard
+### ♟️ [Predict the Unpredictable](https://github.com/OsmanTuerkmen/chess-outcome-prediction)
 
-**[Predict the Unpredictable](https://github.com/OsmanTuerkmen/chess-outcome-prediction)** asks whether the outcome of a game can be estimated while it is still being played. Using more than 130,000 Lichess games, I explored engine evaluations, player strength, time pressure, and models that produce win probabilities — with calibration in mind.
+Can you estimate a chess game's outcome before it ends? I explored that question using **130,000+ Lichess games**, engine evaluations, player strength, and time pressure — with a focus on useful, calibrated win probabilities.
 
 `R` · `Lichess API` · `Stockfish` · `Random Forest` · `Logistic Regression`
 
-### 04 / Check what a language model actually learned
-
-For **[emotion detection with DistilRoBERTa](https://github.com/OsmanTuerkmen/Large-Language-Model-Finetuning)**, I compared a pretrained baseline with a fine-tuned model and examined where different emotion labels make the comparison difficult. The goal was a more honest evaluation, not just a better headline metric.
-
-`Python` · `PyTorch` · `Transformers` · `scikit-learn`
-
-## Where I work
+## 🧭 Research & work
 
 - **Raiffeisen Bank International** — working student in Recovery & Resolution Planning, supporting strategic and regulatory work, analysis, and digitalization.
 - **Oesterreichische Nationalbank** — former research assistant working with credit and climate-risk data. I contributed to geospatial analysis and a working paper **in preparation** on flood exposure in Austrian credit portfolios.
-- **WU Vienna** — BSc in Business, Economics and Social Sciences, majoring in Business Informatics, with a focus on data science and information management.
 
-## My working kit
+## 🧰 Tech Stack
 
 <table>
   <tr>
     <td align="center" width="25%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="38" height="38" alt="Python logo" /><br /><sub>Python</sub></td>
     <td align="center" width="25%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="38" height="38" alt="R logo" /><br /><sub>R</sub></td>
-    <td align="center" width="25%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="38" height="38" alt="SQLite logo" /><br /><sub>SQLite</sub></td>
-    <td align="center" width="25%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="38" height="38" alt="PyTorch logo" /><br /><sub>PyTorch</sub></td>
+    <td align="center" width="25%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="38" height="38" alt="pandas logo" /><br /><sub>pandas</sub></td>
+    <td align="center" width="25%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="38" height="38" alt="NumPy logo" /><br /><sub>NumPy</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="38" height="38" alt="SQLite logo" /><br /><sub>SQLite</sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="50" alt="scikit-learn logo" /><br /><sub>scikit-learn</sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="38" height="38" alt="PyTorch logo" /><br /><sub>PyTorch</sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="38" height="38" alt="Jupyter logo" /><br /><sub>Jupyter</sub></td>
   </tr>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="38" height="38" alt="React logo" /><br /><sub>React</sub></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="38" height="38" alt="TypeScript logo" /><br /><sub>TypeScript</sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="38" height="38" alt="Jupyter logo" /><br /><sub>Jupyter</sub></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="38" height="38" alt="Git logo" /><br /><sub>Git</sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="38" height="38" alt="Linux logo" /><br /><sub>Linux</sub></td>
   </tr>
 </table>
 
-Also in the toolkit: `SQL` · `pandas` · `scikit-learn` · `ggplot2` · `Shiny` · `QGIS` · `sf` · `terra`
+<p>
+  <img src="https://img.shields.io/badge/SQL-2563EB?style=flat-square" alt="SQL" />
+  <img src="https://img.shields.io/badge/QGIS-589632?style=flat-square" alt="QGIS" />
+  <img src="https://img.shields.io/badge/ggplot2-E8755A?style=flat-square" alt="ggplot2" />
+  <img src="https://img.shields.io/badge/Shiny-276DC3?style=flat-square" alt="Shiny" />
+  <img src="https://img.shields.io/badge/sf-6F42C1?style=flat-square" alt="sf" />
+  <img src="https://img.shields.io/badge/terra-388E3C?style=flat-square" alt="terra" />
+</p>
 
 ---
 
-If you're building something around **climate risk, applied ML, or data products**, I'd like to hear about it. **[Send me a note](mailto:osmantr820@gmail.com).**
+**Interested in climate risk, applied ML, or data products?** [Email me](mailto:osmantr820@gmail.com) or [connect on LinkedIn](https://www.linkedin.com/in/osmant%C3%BCrkmen0/).
