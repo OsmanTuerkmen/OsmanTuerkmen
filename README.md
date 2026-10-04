@@ -1,6 +1,8 @@
-<p align="center">
-  <img src="assets/profile-header.svg" alt="Osman Türkmen — turning complex signals into useful decisions" width="100%" />
-</p>
+# Osman Türkmen
+
+> I turn complex signals into decisions people can use.
+
+**Data science · Risk · Useful software** — Vienna, Austria
 
 <p align="center">
   <a href="#selected-work">Selected work</a> &nbsp;·&nbsp;
@@ -8,9 +10,7 @@
   <a href="mailto:osmantr820@gmail.com">Get in touch</a>
 </p>
 
-## Hi, I'm Osman.
-
-I study **Business Informatics at WU Vienna** and work at the intersection of **data science, risk, and useful software**. I like the part of a project where messy data becomes a question worth answering — and the part where an answer has to hold up outside a notebook.
+I study **Business Informatics at WU Vienna**. I like the part of a project where messy data becomes a question worth answering — and the part where an answer has to hold up outside a notebook.
 
 My work moves between satellite imagery, bank portfolios, chess positions, and browser-based machine learning. The common thread: **make complex signals easier to understand and act on.**
 
