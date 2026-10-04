@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Osman Türkmen</title>
+  <desc id="desc">Turning complex signals into useful decisions. Data science, risk, and useful software.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101b2c"/>
+      <stop offset="1" stop-color="#172b39"/>
+    </linearGradient>
+    <linearGradient id="signal" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8ce9d5"/>
+      <stop offset="1" stop-color="#b3f4a9"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#e6fff9" stroke-opacity=".075"/>
+    </pattern>
+    <clipPath id="frame"><rect width="1200" height="360" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="360" fill="url(#background)"/>
+    <rect width="1200" height="360" fill="url(#grid)"/>
+    <path d="M634 379c80-132 164-16 236-138s192-92 326-197M682 402c64-127 145-27 224-144s180-70 311-196M721 415c57-122 156-18 239-131s170-69 278-190M768 427c48-111 144-25 234-132s169-49 267-168" fill="none" stroke="#77c9be" stroke-opacity=".22" stroke-width="2"/>
+    <path d="M681-43c77 54 149 20 177 101s-48 123 32 185 176 1 276 80M739-49c72 55 144 12 171 90s-45 128 38 188 171-6 268 64M796-40c73 54 139 5 169 85s-42 112 45 174 157-7 255 59" fill="none" stroke="#dfb39c" stroke-opacity=".26" stroke-width="2"/>
+    <circle cx="939" cy="168" r="94" fill="#8ce9d5" fill-opacity=".045" stroke="#8ce9d5" stroke-opacity=".26"/>
+    <circle cx="939" cy="168" r="54" fill="none" stroke="#8ce9d5" stroke-opacity=".34"/>
+    <circle cx="939" cy="168" r="9" fill="url(#signal)"/>
+    <circle cx="770" cy="95" r="6" fill="#e8bba4"/>
+    <circle cx="1090" cy="263" r="6" fill="#e8bba4"/>
+    <path d="M770 95l169 73 151 95" fill="none" stroke="#8ce9d5" stroke-opacity=".58" stroke-width="2" stroke-dasharray="5 8"/>
+    <rect x="54" y="51" width="42" height="5" rx="2.5" fill="url(#signal)"/>
+    <text x="54" y="119" fill="#8ce9d5" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" letter-spacing="5">DATA · RISK · SOFTWARE</text>
+    <text x="50" y="213" fill="#f6faf9" font-family="Arial, Helvetica, sans-serif" font-size="68" font-weight="700" letter-spacing="-2">Osman Türkmen</text>
+    <text x="54" y="266" fill="#c6d8da" font-family="Arial, Helvetica, sans-serif" font-size="27">Turning complex signals into useful decisions.</text>
+    <text x="54" y="319" fill="#88aaa9" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="2">VIENNA, AUSTRIA  /  WU VIENNA</text>
+  </g>
+</svg>
